@@ -62,8 +62,9 @@ To effectivaely analize abovementioned datasets whent to significant transformat
 
 The heat map serves as a powerful tool for data storytelling. In this case, users can interact with a map by hovering on points which represent companies. Hover displays information about the companies such as Name, EBITDA, Industry, Revenue Growth and City. This information is useful for investor interested in particular area or city.
 
-### Annual Performance Bar Graph:
-![image](https://github.com/icherniavskyi/project-1/assets/160045374/a3aa5085-5a33-4edf-bec9-32df9ece5e15)
+# Annual Performance Rate
+
+![image](https://github.com/icherniavskyi/project-1/assets/160045374/3a455790-797e-4e29-8964-f12b613914b8)
 
 #### Findings:
   1. Significant disparity in performance among the companies. For instance, CSGP and EQIX, have shown growth with 38.37% and 18.43% annual performance. On the other end of     the spectrum, SPG shows decline in -39.82% annual performance.
