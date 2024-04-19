@@ -99,3 +99,18 @@ geolocator = Nominatim(user_agent="your_project_name")
   - inflation = pd.read_excel()
   - unemployment = pd.read_excel()
   - mortgage = pd.read_csv()
+
+    ADITYA 
+## Calculating Monthly ROR
+using the basic formula for ror 
+(initial-final)/ final *100
+
+#Monthly ROR of all REITS from S&P500 
+using group by with date and creating and new data frame dropping unnecessary columns to create datafram to show ROR by month
+##Philliphs Curve
+using a scatter plot to plot to plt the data set for unemployment and inflation and run a regression on it to show data trend 
+#Unemp vs ror 
+plotting on a scatter unemployment and ROR agaisnt time to see a side by side visual
+
+#economic insights and break down of factors to measure and how to measure them and to create a scale to measure ROR and its affects from other economic factors.
+#
