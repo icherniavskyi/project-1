@@ -1,12 +1,14 @@
 # project-1
-# SP500 REITS performance in the year 2020
+# SP500 Stock performance and REITS( Real Estate Interest Trusts) in the year 2020
 
-## This project explores the relationships between the stock performances of real estate companies in 2020 and key economic indicators including mortgage rates, inflation, and unemployment. The analysis addresses the following key questions:
+## This project explores the relationships between the stock performances of the top companies in the united states based on the S&P index.It further delves into the analysis of comapnies across the real estate industry, Healthcare and Technology sectors in 2020 and key economic indicators including mortgage rates, inflation, and unemployment. The analysis addresses the following key questions:
 
   - What was the annual performance of REITs across and their geographical locations?
   - How did mortgage rates affect the stock performance of REITs?
   - What impact did inflation have on the stock performance of REITs?
   - How did unemployment rates influence the stock performance of REITs?
+  - How did stocks perform in the healthcare and Technology sector?
+  - What impacts did stock prices have on revenue growth and company size?
 
 ## Data Summary and Acquisition
 
@@ -70,6 +72,9 @@ The heat map serves as a powerful tool for data storytelling. In this case, user
   1. Significant disparity in performance among the companies. For instance, CSGP and EQIX, have shown growth with 38.37% and 18.43% annual performance. On the other end of     the spectrum, SPG shows decline in -39.82% annual performance.
   2. Few companies managed to record positive growth. This  might suggest this companies have resilient business models and adaptability.
   3. The wide range of performance across companies, from significant gains to steep losses, suggests high volatility within the real estate sector in 2020.
+  4. Identifying top ten performing stocks and bottom ten performing stocks in Healthcare and technology for the year 2020.
+  5. A slight correlation between unemployment and ROR
+
  
 # Getting Started
 
@@ -83,7 +88,7 @@ Before running the scripts, please ensure that all the necessary libraries are i
 * hvplot: For creating interactive visualizations with HoloViews.
 * numpy: For numerical operations.
 * geopy: For geocoding through the Nominatim service.
-
+  
 To install obovementioned packages please use this code in your terminal: pip install pandas matplotlib geopandas hvplot numpy geopy. Before running the script import this dependanices to your enviornment. 
 
 Additionaly, to use geopy please import Nominatim and specify the name for your project. 
