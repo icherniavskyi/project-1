@@ -40,7 +40,8 @@ The analysis leverages four datasets to investigate the aforementioned questions
 
 ## Analysis Goals
 The ultimate aim is to utilize these datasets to draw insights into how major economic indicators affect the financial performance of Healthcare companies, Technology companies, real estate companies, specifically REITs, during the economically turbulent year of 2020.
-Analysis Presentation : https://docs.google.com/presentation/d/1n67gkTu9tx_g2f6br0v94TxOjDFKTYprEh44wrhTVZY/edit#slide=id.g2cd668485f1_0_6
+
+#Analysis Presentation : https://docs.google.com/presentation/d/1n67gkTu9tx_g2f6br0v94TxOjDFKTYprEh44wrhTVZY/edit#slide=id.g2cd668485f1_0_6
 
 ## Data Preparation:
 
